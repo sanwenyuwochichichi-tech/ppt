@@ -1,14 +1,16 @@
-# 立白科技调研座谈会 · 16页参考模板风格版
+# 立白科技调研座谈会 · 16页模型优化与4K版
 
-按照用户提供的《智造人才画像_1(1).pdf》重做：机械臂背景、深蓝底、蓝金配色、顶部导航、金色衬线标题和科技边框。
+深蓝工业科技风，金色书法封面，清晰的模型关系图；文字、表格、流程和图表可编辑。
 
-- [可编辑PPT](libai-competency-16-slides.pptx)：16页；背景图片，文字、图形、表格可编辑，含演讲备注。
+- [可编辑PPT](libai-competency-16-slides.pptx)
+- [4K高清图片](libai-4k-slides.zip)：16张PNG，每页3840×2160。
+- [字体包](libai-fonts.zip)：先解压安装字体，再打开PPT/WPS，保持书法和正文样式。
 - [PDF预览](libai-competency-16-slides.pdf)
-- [16页总览](模板风格-16页总览.jpg)
-- [HTML兼容包](libai-html-open.zip)：先解压，用Edge/Chrome/Safari打开index.html。脚本被禁用时仍显示全部16页供滚动浏览。
-- [原版矢量HTML](libai-frontend-slides.html)：下载后使用浏览器打开，支持E编辑、N备注、F全屏、Ctrl+S保存。
-- [全套ZIP](libai-presentation.zip)
+- [16页总览](模型优化-16页总览.jpg)
+- [HTML兼容包](libai-html-open.zip)：先解压，用浏览器打开index.html；禁用脚本仍可看16页。
+- [矢量可编辑HTML](libai-frontend-slides.html)
+- [演示文件ZIP](libai-presentation.zip)：PPT/PDF/HTML/说明；完整字体和4K图片另下载。
 
-GitHub文件页面会显示HTML源码。请使用Download raw file下载，兼容HTML推荐通过ZIP获取并解压。
+模型内容以主报告为准，补充Excel只作编码方法示例；缺失数据保留待验证。详见[交付说明](交付说明.md)。
 
-正文与数据以《202602优化版本-先进制造业人才标准项目报告0201》为准；补充Excel仅作编码示例；新上传PDF只作视觉参考。问卷链接仍待补充。详细说明见[交付说明](交付说明.md)。
+GitHub文件页面可能只显示源码或下载按钮。请点击 Download raw file 下载到本机打开。
