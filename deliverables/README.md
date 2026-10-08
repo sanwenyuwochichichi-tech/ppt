@@ -1,17 +1,14 @@
-# 立白科技调研座谈会 · 16 页视觉修订版
+# 立白科技调研座谈会 · 16页参考模板风格版
 
-采用 [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) 固定 16:9 舞台与单文件 HTML 规范，保留工业科技蓝风格，并按反馈降低信息密度。
+按照用户提供的《智造人才画像_1(1).pdf》重做：机械臂背景、深蓝底、蓝金配色、顶部导航、金色衬线标题和科技边框。
 
-- **优先使用** `libai-html-open.zip`：解压后用 Edge / Chrome / Safari 打开 `index.html`。兼容版使用内嵌高清页图，不依赖 SVG、自定义字体、存储或对话框；脚本被禁用时可滚动浏览全部 16 页。文字编辑请使用 PPT。
-- `libai-frontend-slides-compatible.html`：上述兼容版的单文件 HTML。
-- `libai-frontend-slides.html`：浏览器演示版，字体/图片内嵌，下载后双击即可离线播放。方向键切页，E 编辑文字，N 演讲备注，F 全屏，Ctrl+S 保存 HTML。
-- `libai-competency-16-slides.pptx`：16 页可编辑 PowerPoint，含备注与统一转场。
-- `libai-competency-16-slides.pdf`：16 页静态预览。
-- `Frontend-Slides-16页总览.jpg`：新版总览。
-- `libai-presentation.zip`：HTML、PPTX、PDF、总览与说明合集。
+- [可编辑PPT](libai-competency-16-slides.pptx)：16页；背景图片，文字、图形、表格可编辑，含演讲备注。
+- [PDF预览](libai-competency-16-slides.pdf)
+- [16页总览](模板风格-16页总览.jpg)
+- [HTML兼容包](libai-html-open.zip)：先解压，用Edge/Chrome/Safari打开index.html。脚本被禁用时仍显示全部16页供滚动浏览。
+- [原版矢量HTML](libai-frontend-slides.html)：下载后使用浏览器打开，支持E编辑、N备注、F全屏、Ctrl+S保存。
+- [全套ZIP](libai-presentation.zip)
 
-打开相应文件页面，使用 Download raw file 下载。GitHub 会显示 HTML 源码，请下载后在本机浏览器打开。
+GitHub文件页面会显示HTML源码。请使用Download raw file下载，兼容HTML推荐通过ZIP获取并解压。
 
-核心口径以《202602优化版本-先进制造业人才标准项目报告0201》为准；补充 Excel 仅用于编码方法示意。问卷链接待补充。
-
-视觉调整：暖灰背景、细线图标、去阴影、说明移脚注、减少第5/6/11页元素、完善图例和缺失维度说明。评分表行高88px、建议栏820px，反馈流程简化一行。
+正文与数据以《202602优化版本-先进制造业人才标准项目报告0201》为准；补充Excel仅作编码示例；新上传PDF只作视觉参考。问卷链接仍待补充。详细说明见[交付说明](交付说明.md)。
