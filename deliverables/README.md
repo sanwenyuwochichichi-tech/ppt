@@ -2,6 +2,8 @@
 
 采用 [Frontend Slides](https://github.com/zarazhangrui/frontend-slides) 固定 16:9 舞台与单文件 HTML 规范，保留工业科技蓝风格，并按反馈降低信息密度。
 
+- **优先使用** `libai-html-open.zip`：解压后用 Edge / Chrome / Safari 打开 `index.html`。兼容版使用内嵌高清页图，不依赖 SVG、自定义字体、存储或对话框；脚本被禁用时可滚动浏览全部 16 页。文字编辑请使用 PPT。
+- `libai-frontend-slides-compatible.html`：上述兼容版的单文件 HTML。
 - `libai-frontend-slides.html`：浏览器演示版，字体/图片内嵌，下载后双击即可离线播放。方向键切页，E 编辑文字，N 演讲备注，F 全屏，Ctrl+S 保存 HTML。
 - `libai-competency-16-slides.pptx`：16 页可编辑 PowerPoint，含备注与统一转场。
 - `libai-competency-16-slides.pdf`：16 页静态预览。
