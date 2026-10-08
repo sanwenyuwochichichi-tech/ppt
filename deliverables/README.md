@@ -1,4 +1,16 @@
-# 最新版：18页明亮UI版
+# 最新版：18页逻辑与视觉重构版
+
+模型总览提前，五类人才、三级人才与四级行为分别解释；正式报告和编码示例的证据用途分开。封面、模型图、数据页和验证流程重新设计。
+
+- [可编辑PPT](refined/libai-refined.pptx)
+- [PDF预览](refined/libai-refined.pdf)
+- [完整下载包（含4K、字体、HTML、备查资料）](refined/libai-refined-all.zip)
+- [18页总览](refined/重构版-18页总览.jpg)
+- [新版说明与更多下载](refined/README.md)
+
+---
+
+# 历史版本：18页明亮UI版
 
 已按最新蓝白卡片、仪表盘式设计规范重做。
 
